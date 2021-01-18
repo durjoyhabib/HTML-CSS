@@ -68,3 +68,6 @@ table td {
 table tr:hover { background-color: rgb(26, 237, 230);
 
 }
+h1{
+	color: red;
+}
