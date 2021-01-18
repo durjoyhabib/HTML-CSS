@@ -1,0 +1,70 @@
+h3 { 
+	color: red;
+
+}
+h1 {
+	text-align: center;
+	color: red;
+	font-size: 40px;
+	background-color: green;
+}
+
+body {
+	background-color: transparent;
+}
+
+.Login {
+	background-color: violet;
+	border: 8px solid black;
+	text-align: center;
+	height: 280px;
+	width: 400px;
+	margin: auto;
+	padding: 18px;
+	outline-style: dotted;
+	width: 70%
+	
+}
+.Login h3 {
+font-size: 30px;
+color: blue;
+text-decoration: underline;
+}
+
+
+p {
+	text-decoration: underline;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+	text-shadow: 2px;
+	font-family: "Arial", sans-sherif;
+	font-style: oblique;
+	font-family: "Sofia", sans-sherif;
+}
+
+.bullets ul {
+		list-style-type: square;
+	}
+
+table {
+ font-family:"Arial", sans-sherif;
+ border-collapse: collapse;
+ width: 80%;
+ border: 4px;
+
+}
+
+table th {
+	background-color: green;
+	text-align: center;
+	color: red;
+}
+
+table td {
+	padding: 4px;
+
+}
+
+table tr:hover { background-color: rgb(26, 237, 230);
+
+}
