@@ -71,3 +71,202 @@ table tr:hover { background-color: rgb(26, 237, 230);
 h1{
 	color: red;
 }
+
+
+
+div.Habib {
+	width: 500px;
+	margin: auto;
+	border: 3px solid #73AD21;
+}
+
+div.Joy2 {
+	width: 500px;
+	margin: auto;
+	border: 3px solid #73AD21;
+}
+
+div.static {
+	position: static;
+	border: 3px solid #73AD21;
+}
+
+div.relative {
+	position: relative;
+	left: 30px;
+	border: 3px solid #73AD21;
+}
+
+div.fixed {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 300px;
+	border: 3px solid #73AD21;
+}
+
+div.relative {
+	position: relative;
+	width: 400px;
+	height: 200px;
+	border: 3px solid #73AD21;
+}
+
+div.absolute {
+	position: absolute;
+	top: 80px;
+	right: 0;
+	width: 200px;
+	height: 100px;
+	border: 3px solid #73AD21;
+}
+
+div.sticky {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	padding: 5px;
+	background-color: #cae8ca;
+	border: 2px solid #4CAF50;
+}
+
+.dell {
+	background-color: red;
+	width: 200px;
+	height: 50px;
+	border: 1px dotted black;
+	overflow: visible;
+}
+
+.hp {
+	background-color: #eee;
+	width: 200px;
+	height: 50px;
+	border: 1px dotted blue;
+	overflow: hidden;
+}
+
+.raju {
+	background-color: #fff;
+	width: 200px;
+	height: 50px;
+	border: 1px dotted red;
+	overflow: scroll;
+}
+
+.rafe {
+	background-color: #eee;
+	width: 200px;
+	height: 50px;
+	border: 1px dotted green;
+	overflow: auto;
+
+}
+
+.float img {
+	float: right;
+
+}
+
+.float2 img {
+	float: left;
+}
+
+
+span.a {
+  display: inline; /* the default for span */
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;  
+  background-color: yellow; 
+}
+
+span.b {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow; 
+}
+
+span.c {
+  display: block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow; 
+}
+
+.center {
+	margin: auto;
+	text-align: center;
+	width: 60%;
+	border: 3px solid #73AD21;
+	padding: 10px;
+}
+
+.paris img {
+	float: center;
+	margin: center;
+	padding: 20px;
+}
+
+.dcolor {
+	background-color: orange;
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+.opacity img {
+	
+}
+
+.opacity img:hover {
+	opacity: 0.6;
+}
+
+.nav-bar ul {
+	list-style-type: none;
+	background-color: red;
+	padding: 0;
+	margin: 0;
+
+}
+
+.nav-bar ul li {
+	display: inline;
+}
+
+.nav-bar {
+
+
+}
+
+.nav-bar ul li a{
+	color: white;
+	text-decoration-line: none;
+	font-size: 20px;
+	text-align: center;
+	padding: 14px 16px;
+}
